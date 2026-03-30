@@ -3,6 +3,7 @@ import Navbar from './components/layout/Navbar';
 import Hero from './components/sections/Hero';
 import Marquee from './components/sections/Marquee';
 import About from './components/sections/About';
+import ProductMenu from './components/sections/ProductMenu';
 import Services from './components/sections/Services';
 import Gallery from './components/sections/Gallery';
 import Pricing from './components/sections/Pricing';
@@ -17,6 +18,7 @@ function App() {
       <Hero />
       <Marquee />
       <About />
+      <ProductMenu />
       <Services />
       <Gallery />
       <Pricing />

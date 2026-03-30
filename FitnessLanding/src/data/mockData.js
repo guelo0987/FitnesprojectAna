@@ -1,6 +1,7 @@
 export const NAV_LINKS = [
   { label: "Inicio", href: "#inicio" },
   { label: "Nosotros", href: "#nosotros" },
+  { label: "Productos", href: "#productos" },
   { label: "Servicios", href: "#servicios" },
   { label: "Menú", href: "#menu" },
   { label: "Planes", href: "#planes" },
