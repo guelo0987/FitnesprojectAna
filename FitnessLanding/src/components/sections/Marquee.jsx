@@ -10,7 +10,7 @@ const Marquee = () => {
           {[...MARQUEE_ITEMS, ...MARQUEE_ITEMS, ...MARQUEE_ITEMS].map((item, idx) => (
             <span
               key={idx}
-              className="font-display text-3xl sm:text-4xl font-extrabold uppercase tracking-tight text-gray-100 flex items-center gap-6 select-none"
+              className="font-display text-2xl sm:text-2xl font-extrabold uppercase tracking-tight text-gray-100 flex items-center gap-6 select-none"
             >
               {item}
               <span className="text-fit-green text-sm">&#9670;</span>
@@ -24,7 +24,7 @@ const Marquee = () => {
           {[...MARQUEE_ITEMS, ...MARQUEE_ITEMS, ...MARQUEE_ITEMS].map((item, idx) => (
             <span
               key={idx}
-              className="font-display text-3xl sm:text-4xl font-extrabold uppercase tracking-tight text-fit-black flex items-center gap-6 select-none"
+              className="font-display text-1xl sm:text-2xl font-extrabold uppercase tracking-tight text-fit-black flex items-center gap-6 select-none"
             >
               {item}
               <span className="text-fit-green text-sm">&#9670;</span>
