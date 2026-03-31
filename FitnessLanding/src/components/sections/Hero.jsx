@@ -65,7 +65,7 @@ const Hero = () => {
               <div className="absolute -top-2 -right-2 sm:-top-3 sm:-right-3 w-full h-full bg-fit-green/15 rounded-3xl" />
               <div className="relative rounded-3xl overflow-hidden shadow-2xl shadow-black/15">
                 <div className="aspect-[3/4] overflow-hidden">
-                  <img src="/hero-main.png" alt="Fit Essence - Bowl saludable premium" className="w-full h-full object-cover" />
+                  <img src="/hero-main.webp" alt="Fit Essence - Bowl saludable premium" className="w-full h-full object-cover" />
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 p-3 sm:p-4">
                   <div className="bg-white/95 backdrop-blur-md rounded-xl px-3 sm:px-4 py-2.5 sm:py-3 flex items-center justify-between shadow-lg">

@@ -58,7 +58,7 @@ const Pricing = () => {
                     ))}
                   </div>
                   <div className="bg-black rounded-xl p-1.5 shadow-xl">
-                    <img src="/pricing-plate.png" alt="Plato premium" className="w-16 h-16 object-cover rounded-lg" />
+                    <img src="/pricing-plate.webp" alt="Plato premium" className="w-16 h-16 object-cover rounded-lg" />
                   </div>
                 </div>
               </div>

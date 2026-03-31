@@ -27,7 +27,7 @@ const Services = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-5">
           <div className="group bg-white rounded-3xl overflow-hidden border border-gray-100 hover:shadow-xl hover:shadow-fit-green/5 transition-all duration-500">
             <div className="aspect-[5/3] overflow-hidden">
-              <img src="/service-nutrition.png" alt="Alimentaci&oacute;n saludable" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+              <img src="/service-nutrition.webp" alt="Alimentaci&oacute;n saludable" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
             </div>
             <div className="p-6 lg:p-7">
               <h3 className="font-display text-lg font-extrabold text-fit-black mb-1.5 tracking-tight">Alimentaci&oacute;n Saludable</h3>
@@ -37,7 +37,7 @@ const Services = () => {
 
           <div className="group bg-white rounded-3xl overflow-hidden border border-gray-100 hover:shadow-xl hover:shadow-fit-green/5 transition-all duration-500">
             <div className="aspect-[5/3] overflow-hidden">
-              <img src="/service-event.png" alt="Eventos fitness" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+              <img src="/service-event.webp" alt="Eventos fitness" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
             </div>
             <div className="p-6 lg:p-7">
               <h3 className="font-display text-lg font-extrabold text-fit-black mb-1.5 tracking-tight">Eventos Fitness Premium</h3>

@@ -7,7 +7,7 @@ const CTA = () => {
   return (
     <section ref={ref} className="relative overflow-hidden">
       <div className="absolute inset-0">
-        <img src="/cta-banner.png" alt="Evento fitness catering" className="w-full h-full object-cover" />
+        <img src="/cta-banner.webp" alt="Evento fitness catering" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-black/65" />
       </div>
 

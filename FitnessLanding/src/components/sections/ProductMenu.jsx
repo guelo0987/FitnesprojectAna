@@ -2,15 +2,15 @@ import React, { useState } from 'react';
 import { useScrollReveal } from '../../hooks/useScrollReveal';
 
 const BOWLS = [
-  { img: '/menuimagenes/bbqproteinsalad.png', name: 'BBQ Protein Salad', tag: 'Alto en Proteína', desc: 'Pollo BBQ, frijoles negros, maíz, aguacate y cilantro' },
-  { img: '/menuimagenes/mexicanquinoa.png', name: 'Mexican Quinoa Bowl', tag: 'Favorito', desc: 'Quinoa, pollo a la plancha, aguacate, maíz y pico de gallo' },
-  { img: '/menuimagenes/ensaladacesar.png', name: 'Ensalada César', tag: 'Clásico', desc: 'Pollo grillado, crutones, parmesano y aderezo césar' },
-  { img: '/menuimagenes/quinoabowl.png', name: 'Quinoa Bowl Vegan', tag: 'Vegano', desc: 'Garbanzos, aguacate, pimiento, camote y quinoa' },
+  { img: '/menuimagenes/bbqproteinsalad.webp', name: 'BBQ Protein Salad', tag: 'Alto en Proteína', desc: 'Pollo BBQ, frijoles negros, maíz, aguacate y cilantro' },
+  { img: '/menuimagenes/mexicanquinoa.webp', name: 'Mexican Quinoa Bowl', tag: 'Favorito', desc: 'Quinoa, pollo a la plancha, aguacate, maíz y pico de gallo' },
+  { img: '/menuimagenes/ensaladacesar.webp', name: 'Ensalada César', tag: 'Clásico', desc: 'Pollo grillado, crutones, parmesano y aderezo césar' },
+  { img: '/menuimagenes/quinoabowl.webp', name: 'Quinoa Bowl Vegan', tag: 'Vegano', desc: 'Garbanzos, aguacate, pimiento, camote y quinoa' },
 ];
 
 const DRINKS = [
-  { img: '/menuimagenes/bebidasrefrescante.png', name: 'Ice Tea Jamaica y Menta', price: 'RD$195' },
-  { img: '/menuimagenes/teaice.png', name: 'Ice Tea Menta y Limón', price: 'RD$195' },
+  { img: '/menuimagenes/bebidasrefrescante.webp', name: 'Ice Tea Jamaica y Menta', price: 'RD$195' },
+  { img: '/menuimagenes/teaice.webp', name: 'Ice Tea Menta y Limón', price: 'RD$195' },
 ];
 
 const ProductMenu = () => {

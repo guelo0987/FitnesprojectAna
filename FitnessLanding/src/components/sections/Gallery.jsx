@@ -28,7 +28,7 @@ const Gallery = () => {
         <div className="group relative rounded-3xl overflow-hidden mb-5">
           <div className="aspect-[2.2/1] overflow-hidden">
             <img
-              src="/gallery-secondary.png"
+              src="/gallery-secondary.webp"
               alt="Meal prep variedad de platos saludables"
               className="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-700"
             />
@@ -47,7 +47,7 @@ const Gallery = () => {
           <div className="lg:col-span-5 group relative rounded-3xl overflow-hidden">
             <div className="aspect-[4/3] overflow-hidden">
               <img
-                src="/pricing-plate.png"
+                src="/pricing-plate.webp"
                 alt="Plato premium de salm&oacute;n"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />

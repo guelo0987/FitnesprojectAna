@@ -20,7 +20,7 @@ const About = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-xl shadow-black/10">
               <div className="aspect-[4/3] overflow-hidden">
                 <img
-                  src="/about-team.png"
+                  src="/about-team.webp"
                   alt="Chef preparando comida saludable"
                   className="w-full h-full object-cover"
                 />
